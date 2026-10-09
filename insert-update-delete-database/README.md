@@ -18,23 +18,28 @@ Laboratorio práctico para aprender a insertar, actualizar y eliminar datos util
 - MariaDB
 - SQL
 - Linux
-
 ## Evidencias del laboratorio
 
-### Restauración de la base de datos
+### Captura 1
+![Captura 1](Captura%20de%20pantalla%202026-10-09%20005234.png)
 
-Se restauró la base de datos original y se verificó que la tabla `country` contuviera 237 registros.
+### Captura 2
+![Captura 2](Captura%20de%20pantalla%202026-10-09%20005303.png)
 
-![Captura de la restauración](03-restauracion.png)
+### Captura 3
+![Captura 3](Captura%20de%20pantalla%202026-10-09%20005324.png)
 
-## Evidencias del laboratorio
+### Captura 4
+![Captura 4](Captura%20de%20pantalla%202026-10-09%20005339.png)
 
-### Restauración de la base de datos
+### Captura 5
+![Captura 5](Captura%20de%20pantalla%202026-10-09%20005403.png)
 
-Se restauró la base de datos original y se verificó que la tabla `country` contuviera 237 registros.
-
-![Captura de la restauración](03-restauracion.png)
+### Captura 6
+![Captura 6](Captura%20de%20pantalla%202026-10-09%20005430.png)
 
 ## Conclusión
 
-Este laboratorio permitió practicar operaciones fundamentales de SQL y comprobar la restauración de la base de datos original.
+En este laboratorio aprendí a realizar operaciones básicas de SQL utilizando una base de datos en Amazon Web Services (AWS). Practiqué cómo insertar nuevos registros con `INSERT`, modificar datos existentes con `UPDATE` y eliminar registros con `DELETE`.
+
+Finalmente, restauré la base de datos original y verifiqué que la tabla `country` contuviera nuevamente sus 237 registros. Esta actividad me permitió comprender la importancia de administrar los datos correctamente y comprobar que la información se haya restaurado de forma adecuada.
