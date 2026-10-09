@@ -24,3 +24,10 @@ La captura de pantalla del laboratorio se encuentra en la raíz del repositorio 
 
 ## Conclusión
 Este laboratorio permitió practicar operaciones fundamentales de SQL y comprobar la restauración de la base de datos original.
+## Evidencias del laboratorio
+
+### Restauración de la base de datos
+
+Se restauró la base de datos original y se verificó que la tabla `country` contuviera 237 registros.
+
+![Captura de la restauración](03-restauracion.png)
